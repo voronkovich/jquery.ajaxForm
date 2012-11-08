@@ -1,4 +1,4 @@
 jquery.ajaxForm
 ===============
 
-Plugin for JQuery to create ajax forms
+Plugin for jQuery to create ajax forms
